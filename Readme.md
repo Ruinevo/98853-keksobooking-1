@@ -1,4 +1,4 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+# Личный проект «Кексобукинг» 
 
 * Студент: [Rinat Sadykov](https://up.htmlacademy.ru/nodejs/2/user/98853).
 * Наставник: [Alexander Brenchev](https://htmlacademy.ru/profile/id59895).
